@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+io.github.daedrics.atpco.api.sdk.config.AtpcoAutoConfiguration
