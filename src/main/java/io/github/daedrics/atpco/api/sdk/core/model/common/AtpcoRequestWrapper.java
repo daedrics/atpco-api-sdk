@@ -5,7 +5,7 @@ import lombok.Builder;
 import lombok.Data;
 
 /**
- * @author Redion Muraj (U197326)
+ * @author Redion Muraj
  * @since 23 Jul 2021
  */
 @Data

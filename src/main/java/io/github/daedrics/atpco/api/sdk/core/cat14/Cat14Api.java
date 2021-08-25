@@ -6,7 +6,7 @@ import io.github.daedrics.atpco.api.sdk.core.model.TravelRestriction14;
 import lombok.Builder;
 
 /**
- * @author Redion Muraj (U197326)
+ * @author Redion Muraj
  * @since 23 Jul 2021
  */
 @Builder

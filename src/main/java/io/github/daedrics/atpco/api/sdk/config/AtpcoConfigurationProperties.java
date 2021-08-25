@@ -4,7 +4,7 @@ import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author Redion Muraj (U197326)
+ * @author Redion Muraj
  * @since 30 Jun 2021
  */
 @Data

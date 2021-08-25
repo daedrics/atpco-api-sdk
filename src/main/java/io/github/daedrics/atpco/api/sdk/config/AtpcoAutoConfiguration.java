@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 
 /**
- * @author Redion Muraj (U197326)
+ * @author Redion Muraj
  * @since 28 Jun 2021
  */
 @Configuration
